@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <title onmouseover="alert('XSS via title')">Hover me</title>
+</svg>

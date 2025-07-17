@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <object data="javascript:alert('XSS via object')" type="text/html"></object>
+</svg>

